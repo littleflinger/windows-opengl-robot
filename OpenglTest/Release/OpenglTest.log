@@ -1,0 +1,36 @@
+﻿  test.cpp
+src\test.cpp(16): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+src\test.cpp(16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+src\test.cpp(19): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+src\test.cpp(19): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+src\test.cpp(24): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+src\test.cpp(24): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+src\test.cpp(36): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+src\test.cpp(36): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+src\test.cpp(76): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(91): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(92): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(94): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(109): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(110): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(112): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(127): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(131): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(148): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(152): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(169): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(186): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(187): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(189): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(203): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(204): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+src\test.cpp(206): warning C4305: “参数”: 从“double”到“GLfloat”截断
+src\test.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+src\test.cpp(260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 46 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OpenglTest.vcxproj -> C:\Users\jaden\documents\visual studio 2015\Projects\OpenglTest\Release\OpenglTest.exe
+  OpenglTest.vcxproj -> C:\Users\jaden\documents\visual studio 2015\Projects\OpenglTest\Release\OpenglTest.pdb (Full PDB)
